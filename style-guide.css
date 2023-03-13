@@ -1,0 +1,30 @@
+body {
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #c1ebf7;
+}
+
+h1 {
+    font-family: 'Sono', sans-serif;
+}
+
+.artwork-images {
+    width: 400px;
+    cursor: pointer;
+}
+
+.bio-par {
+    width: 55%;
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+.bio-image {
+    width: 20%;
+}
+
+.contact-info {
+    width: 85%;
+}
